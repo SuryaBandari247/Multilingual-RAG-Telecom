@@ -1,0 +1,10 @@
+dataset/generated/combined_after_translation.csv filter=lfs diff=lfs merge=lfs -text
+dataset/generated/filtered_list.csv filter=lfs diff=lfs merge=lfs -text
+chromadb.zip filter=lfs diff=lfs merge=lfs -text
+dataset/aggregated_conversations.csv filter=lfs diff=lfs merge=lfs -text
+dataset/generated/after_ner.csv filter=lfs diff=lfs merge=lfs -text
+dataset/generated/aggregated_conversations_with_topicmodeling.csv filter=lfs diff=lfs merge=lfs -text
+dataset/generated/cleaned_text.csv filter=lfs diff=lfs merge=lfs -text
+dataset/generated/cleaned_text_metadata.csv filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text

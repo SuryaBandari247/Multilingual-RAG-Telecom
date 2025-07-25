@@ -8,3 +8,4 @@ dataset/generated/cleaned_text.csv filter=lfs diff=lfs merge=lfs -text
 dataset/generated/cleaned_text_metadata.csv filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+presentation-video-ppt/* filter=lfs diff=lfs merge=lfs -text
